@@ -1,9 +1,11 @@
 /*
-    STACK IMPLEMENTATION
-    isEmpty()
-    push()
-    pop()
-    peep()
+    STACK IMPLEMENTATION USING LINKED LIST
+    
+    Functions:
+        -isEmpty()
+        -push()
+        -pop()
+        -peep()
 */
 
 #include<stdio.h>
