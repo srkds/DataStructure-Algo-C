@@ -24,6 +24,8 @@
 
     git push origin -YourBranchName-
 
-    7.Create a PR.
+    7. Add CONTRIBUTING.md file
+    
+
 
 
